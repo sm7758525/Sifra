@@ -1,0 +1,5 @@
+1. create a interface of with ai.png with some text + button for start
+2. create gemini.js, generate api from google gemini, import some code and after some correction its ready (read flowchart)
+3. create a userContext.jsx file, it take 'children' as props and used inside a return
+4. in main.jsx, import userContext.jsx as 'userContext' then use as a tag and put App.jsx inside a userContext tag ,then pass value from usercontext to App.jsx and accept it
+5. create speak fuction
